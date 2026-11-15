@@ -4,13 +4,13 @@ DAISY is a rule-based decision-support form for community health workers managin
 
 ## Contents
 - `DAISY_v4.xlsx` - the form, including all decision logic
-- `media/` – icons used by the form
+- `Icons/` - icons used by the form
 - `CHANGELOG.md` - changes from the pilot version (v3b)
-- `tests/` – automated test cases and scripts (see `tests/README.md`)
-- `archive/v3b/` – the version used in the 2025 pilot
+- `tests/` - automated test cases and scripts (see `tests/README.md`)
+- `archive/DAISY_v3b.xlsx` - the version used in the 2025 pilot
 
 ## Deployment
-Create a project in KoboToolbox, upload `DAISY_v4.xlsx`, add the files in `media/` (Settings → Media) and deploy.
+Create a project in KoboToolbox, upload `DAISY_v4.xlsx`, add the files in `Icons/` (Settings → Media) and deploy.
 
 ## Licence and citation
 CC BY 4.0. Please cite the archived release: [Zenodo DOI]
