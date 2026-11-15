@@ -13,4 +13,4 @@ DAISY is a rule-based decision-support form for community health workers managin
 Create a project in KoboToolbox, upload `DAISY_v4.xlsx`, add the files in `Icons/` (Settings → Media) and deploy.
 
 ## Licence and citation
-CC BY 4.0. Please cite the archived release: [Zenodo DOI]
+CC BY 4.0. Please cite the archived release: https://doi.org/10.5281/zenodo.24239152
